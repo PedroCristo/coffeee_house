@@ -361,6 +361,7 @@ label {
     font-size: 16px;
     position: initial;
     margin-bottom: 100px;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 100%);
 }
 
 .last-footer p{
